@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gorjeta</string>
+    <string name="hint_initial_value">Digite valor da conta</string>
+    <string name="total_value_text">Valor total</string>
+    <string name="comercial_name">Gorjet@</string>
+    <string name="default_tip_value">0%</string>
+
+</resources>
